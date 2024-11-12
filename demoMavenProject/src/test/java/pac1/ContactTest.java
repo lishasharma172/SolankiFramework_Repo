@@ -16,7 +16,7 @@ public void createContactTest () {
 	System.out.println(USERNAME);
 	System.out.println(PASSWORD);
 	
-	System.out.println("execute createContactTest");
+	System.out.println("execute createContactTestt");
 }
 @Test(groups="smoke")
 public void modifyContactTest() {
